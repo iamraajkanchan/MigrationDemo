@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MigrationDemo</string>
+    <string name="frontLabel">Gradle to Kotlin Migration</string>
+</resources>
